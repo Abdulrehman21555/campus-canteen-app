@@ -1,0 +1,157 @@
+{
+  "canteen": "Campus Canteen",
+  "menuDate": "2026-10-26",
+  "currency": "$",
+  "items": [
+    {
+      "id": 1,
+      "name": "Veggie Omelette",
+      "category": "Breakfast",
+      "price": 2.5,
+      "emoji": "🍳",
+      "veg": true,
+      "calories": 280,
+      "description": "Three-egg omelette with onion, tomato, capsicum and herbs, served with toast."
+    },
+    {
+      "id": 2,
+      "name": "Pancake Stack",
+      "category": "Breakfast",
+      "price": 3.0,
+      "emoji": "🥞",
+      "veg": true,
+      "calories": 410,
+      "description": "Fluffy stack of three pancakes with honey and seasonal fruit."
+    },
+    {
+      "id": 3,
+      "name": "Oatmeal Bowl",
+      "category": "Breakfast",
+      "price": 2.0,
+      "emoji": "🥣",
+      "veg": true,
+      "calories": 220,
+      "description": "Warm oats cooked in milk with banana slices and cinnamon."
+    },
+    {
+      "id": 4,
+      "name": "Chicken Biryani",
+      "category": "Mains",
+      "price": 4.5,
+      "emoji": "🍛",
+      "veg": false,
+      "calories": 640,
+      "description": "Fragrant basmati rice layered with spiced chicken, served with raita."
+    },
+    {
+      "id": 5,
+      "name": "Vegetable Fried Rice",
+      "category": "Mains",
+      "price": 3.5,
+      "emoji": "🍚",
+      "veg": true,
+      "calories": 450,
+      "description": "Wok-tossed rice with carrots, beans, peas and spring onion."
+    },
+    {
+      "id": 6,
+      "name": "Grilled Chicken Wrap",
+      "category": "Mains",
+      "price": 4.0,
+      "emoji": "🌯",
+      "veg": false,
+      "calories": 520,
+      "description": "Grilled chicken, crunchy salad and garlic sauce in a toasted wrap."
+    },
+    {
+      "id": 7,
+      "name": "Margherita Pizza Slice",
+      "category": "Mains",
+      "price": 2.75,
+      "emoji": "🍕",
+      "veg": true,
+      "calories": 330,
+      "description": "Thin-crust slice with tomato sauce, mozzarella and basil."
+    },
+    {
+      "id": 8,
+      "name": "Samosa (2 pcs)",
+      "category": "Snacks",
+      "price": 1.5,
+      "emoji": "🥟",
+      "veg": true,
+      "calories": 260,
+      "description": "Crispy pastry filled with spiced potato and peas, with tamarind chutney."
+    },
+    {
+      "id": 9,
+      "name": "French Fries",
+      "category": "Snacks",
+      "price": 2.0,
+      "emoji": "🍟",
+      "veg": true,
+      "calories": 365,
+      "description": "Golden salted fries with ketchup."
+    },
+    {
+      "id": 10,
+      "name": "Club Sandwich",
+      "category": "Snacks",
+      "price": 3.25,
+      "emoji": "🥪",
+      "veg": false,
+      "calories": 480,
+      "description": "Triple-decker sandwich with chicken, egg, lettuce and tomato."
+    },
+    {
+      "id": 11,
+      "name": "Masala Tea",
+      "category": "Drinks",
+      "price": 1.0,
+      "emoji": "☕",
+      "veg": true,
+      "calories": 90,
+      "description": "Strong tea simmered with milk, cardamom and ginger."
+    },
+    {
+      "id": 12,
+      "name": "Fresh Orange Juice",
+      "category": "Drinks",
+      "price": 2.25,
+      "emoji": "🍊",
+      "veg": true,
+      "calories": 110,
+      "description": "Freshly squeezed orange juice, no added sugar."
+    },
+    {
+      "id": 13,
+      "name": "Iced Coffee",
+      "category": "Drinks",
+      "price": 2.5,
+      "emoji": "🧋",
+      "veg": true,
+      "calories": 150,
+      "description": "Cold brew coffee with milk and ice."
+    },
+    {
+      "id": 14,
+      "name": "Chocolate Brownie",
+      "category": "Desserts",
+      "price": 2.0,
+      "emoji": "🍫",
+      "veg": true,
+      "calories": 340,
+      "description": "Fudgy chocolate brownie with walnut pieces."
+    },
+    {
+      "id": 15,
+      "name": "Fruit Cup",
+      "category": "Desserts",
+      "price": 1.75,
+      "emoji": "🍓",
+      "veg": true,
+      "calories": 95,
+      "description": "Seasonal fruit salad with a squeeze of lime."
+    }
+  ]
+}
